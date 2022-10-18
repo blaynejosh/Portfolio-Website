@@ -39,8 +39,8 @@ const About = () => {
           </article>
           </div>
           <p>
-          Enthusiastic Blockchain Developer, who wants to develop smart contracts, Dapps, NFTs and crytocurrency for the world. 
-          Worked on two NFT projects. deployed the smart contract and created a minimized minting Dapp for the projects.
+          An Enthusiastic Blockchain Developer, who develops and builds smart contracts, Dapps, NFTs and crytocurrency. 
+          Worked on two NFT projects, deployed the smart contract and created a minimized minting Dapp for the projects.
           I am a verocious consumer of knowledge in relation to what interests me. I have a perculiar cycle of learning and teaching.
           I want the world to feel my impact through blockchain development by contributing meaningfully to the world’s transition into Web3.
           </p>
