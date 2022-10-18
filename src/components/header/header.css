@@ -66,14 +66,14 @@ h1, h5 {
 }
 
 /* ================= MEDIA QUERIES (MEDIUM DEVICES) ================== */
-/* @media screen and (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
     header {
         height: 100vh;
     }
-} */
+}
 
 /* ================= MEDIA QUERIES (SMALLER DEVICES) ================== */
-/* @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
     header {
         height: 100vh;
     }
@@ -81,4 +81,4 @@ h1, h5 {
     .header__socials, .scroll__down {
         display: none;
     }
-} */
+}

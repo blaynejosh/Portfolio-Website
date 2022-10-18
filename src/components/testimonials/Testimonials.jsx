@@ -24,7 +24,7 @@ const data = [
   {
     avatar: AVTR2,
     name: 'Oyintare',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolorum, cupiditate sint voluptates rerum obcaecati modi quas. Eaque ratione odit qui optio distinctio unde odio numquam deleniti repellendus! Officia, hic!',
+    review: 'I worked with Layomi on a concept and he was able to transfer my ideas into a great form. I like his professionalism and attention to details. He does well in executing his projects and takes feedback very well. I was infinitely pleased with his service.',
   },
   {
     avatar: AVTR3,
@@ -34,7 +34,7 @@ const data = [
   {
     avatar: AVTR4,
     name: 'Ayoola',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolorum, cupiditate sint voluptates rerum obcaecati modi quas. Eaque ratione odit qui optio distinctio unde odio numquam deleniti repellendus! Officia, hic!',
+    review: "Layomi is an excellent graphics designer. He's innovative and his attention to details is commendable. He's more concerned about the satisfaction of his clients.",
   }
 ]
 

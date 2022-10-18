@@ -56,6 +56,10 @@ input, textarea {
 
 /* ================= MEDIA QUERIES (MEDIUM DEVICES) ================== */
 @media screen and (max-width: 1024px) {
+    #contact {
+        margin-top: -12.5rem;
+        margin-bottom: 5rem;
+    }
    .container.contact__container {
     grid-template-columns: 1fr;
     gap: 2rem;

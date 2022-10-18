@@ -12,7 +12,7 @@ const About = () => {
       <h2>About Me</h2>
 
       <div className="container about__container">
-        <div className=".about__me">
+        <div className="about__me">
           <div className="about__me-image">
             <img src= {ME} alt="About Image" />
           </div>
@@ -39,7 +39,10 @@ const About = () => {
           </article>
           </div>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam laborum nihil eos aliquid! Aperiam, maiores dolorum accusantium nulla totam eum officiis explicabo ullam eligendi accusamus libero veniam similique voluptate nisi!
+          Enthusiastic Blockchain Developer, who wants to develop smart contracts, Dapps, NFTs and crytocurrency for the world. 
+          Worked on two NFT projects. deployed the smart contract and created a minimized minting Dapp for the projects.
+          I am a verocious consumer of knowledge in relation to what interests me. I have a perculiar cycle of learning and teaching.
+          I want the world to feel my impact through blockchain development by contributing meaningfully to the world’s transition into Web3.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

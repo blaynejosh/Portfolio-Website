@@ -50,8 +50,11 @@
     font-size: 0.9rem;
 }
 
-/* ================= MEDIA QUERIES (MEDIUM DEVICES) ==================
+/* ================= MEDIA QUERIES (MEDIUM DEVICES) ================== */
 @media screen and (max-width: 1024px) {
+    #services {
+        margin-top: 10rem;
+    }
     .service__container {
         grid-template-columns: 1fr 1fr;
         gap: 2rem;
@@ -63,8 +66,12 @@
 }
 
 /* ================= MEDIA QUERIES (SMALL DEVICES) ================== */
-/* @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
+    #services {
+        margin-top: 4rem;
+    }
     .service__container {
         grid-template-columns: 1fr;
         gap: 1.5em;
-    } */ 
+    } 
+}

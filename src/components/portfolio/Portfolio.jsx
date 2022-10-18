@@ -4,6 +4,8 @@ import IMG1 from '../../assets/AdobeStock_244528903.jpeg'
 import IMG2 from '../../assets/AdobeStock_244528765.jpeg'
 import IMG3 from '../../assets/AdobeStock_435061806.jpeg'
 import IMG4 from '../../assets/portfolio web.png'
+import IMG5 from '../../assets/tullyz logo portfolio wedbsite.png'
+import IMG6 from '../../assets/logo portfolio wedbsite.png'
 
 const data = [
   {
@@ -32,6 +34,20 @@ const data = [
     image: IMG4,
     title: 'Web Development',
     github: 'http://localhost:3000/',
+    demo: ''
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: 'NFT Project',
+    github: 'https://tullyztokens.xyz/',
+    demo: ''
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: 'NFT Project',
+    github: 'https://akanddoksnfts.xyz/',
     demo: ''
   }
 ]
