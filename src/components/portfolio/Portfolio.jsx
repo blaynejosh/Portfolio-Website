@@ -33,22 +33,22 @@ const data = [
     id: 4,
     image: IMG4,
     title: 'Web Development',
-    github: 'http://localhost:3000/',
-    demo: ''
+    github: 'https://github.com/blaynejosh/Portfolio-Website',
+    demo: 'https://jesulayomi-omotosho.vercel.app/'
   },
   {
     id: 5,
     image: IMG5,
     title: 'NFT Project',
     github: 'https://tullyztokens.xyz/',
-    demo: ''
+    demo: 'https://tullyztokens.xyz/'
   },
   {
     id: 6,
     image: IMG6,
     title: 'NFT Project',
     github: 'https://akanddoksnfts.xyz/',
-    demo: ''
+    demo: 'https://akanddoksnfts.xyz/'
   }
 ]
 
